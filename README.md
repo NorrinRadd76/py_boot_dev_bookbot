@@ -1,5 +1,6 @@
 # boot_dev_bookbot
 
+BookBot is my first git project!
 
 
 ## Getting started
